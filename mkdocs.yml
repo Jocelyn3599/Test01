@@ -1,0 +1,6 @@
+site_name: HelloWorld
+theme: readthedocs
+
+nav: 
+    - Index: 'Index.md'
+    - About: 'about.md'
